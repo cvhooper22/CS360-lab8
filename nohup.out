@@ -1,0 +1,63 @@
+Tue, 14 Apr 2015 02:14:34 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at expressServer.js:12:9
+Tue, 14 Apr 2015 02:14:34 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:85:29
+In POST comment route
+cs360
+Remote user
+cs360
+{ Name: 'Blake Griffen', Comment: 'That\'s not a foul!!' }
+Record added as 552c7c0cdb87addc42b0d5eb
+In comment route
+Document Array: 
+[ { _id: 551770ac900a4b06100ac4ae, Name: 'Dick', Comment: 'Clark' },
+  { _id: 55177124900a4b06100ac4af, Name: 'Dick', Comment: 'Clark' },
+  { _id: 55178844c97f00cd102f8df2,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 55178875c97f00cd102f8df3,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 55178960c97f00cd102f8df4,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 551789a9c97f00cd102f8df5,
+    Name: 'Martell Webster',
+    Comment: 'Stinky Winky' },
+  { _id: 55178a46c97f00cd102f8df6,
+    Name: 'Chandler',
+    Comment: 'Banks' },
+  { _id: 55178a63c97f00cd102f8df7,
+    Name: 'Chandler',
+    Comment: 'Parsons' },
+  { _id: 55178a6ec97f00cd102f8df8,
+    Name: 'Chandler',
+    Comment: 'Parsons' },
+  { _id: 55178a73c97f00cd102f8df9,
+    Name: 'Chandler',
+    Comment: 'Parsons' },
+  { _id: 55178a7cc97f00cd102f8dfa,
+    Name: 'Chandler',
+    Comment: 'Wilson' },
+  { _id: 55178f60c97f00cd102f8dfb,
+    Name: 'Jack Harper',
+    Comment: 'Hello Bob' },
+  { _id: 55178f97c97f00cd102f8dfc,
+    Name: 'Jack Harper',
+    Comment: 'Another day in paradise' },
+  { _id: 55178ff2c97f00cd102f8dfd,
+    Name: 'Vikram',
+    Comment: 'I miss you' },
+  { _id: 55178ffcc97f00cd102f8dfe,
+    Name: 'Vikram',
+    Comment: 'Pheobe' },
+  { _id: 551b6a8dbe2b052a3915135f,
+    Name: 'Matt',
+    Comment: 'gross, weather' },
+  { _id: 551b6bea31a0334a3992fc70,
+    Name: 'Billy Bob',
+    Comment: 'yeah, when will it rain' },
+  { _id: 552c61a2fd50d3c541372f64,
+    Name: 'Dick Vitale',
+    Comment: 'This is AWESOME BABY!!' },
+  { _id: 552c7c0cdb87addc42b0d5eb,
+    Name: 'Blake Griffen',
+    Comment: 'That\'s not a foul!!' } ]
